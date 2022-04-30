@@ -1,1 +1,1 @@
-# warframe
+# warframe-wiki
